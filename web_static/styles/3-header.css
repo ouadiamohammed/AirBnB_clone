@@ -10,9 +10,9 @@ header {
 
 header .logo {
     background-image: url("../images/logo.png");
-    background-position: center;
+    background-position: cover;
     background-repeat: no-repeat;
     width: 175px;
     height: 100%;
-    margin-left: 20px;
+    margin-left: 5px;
 }
